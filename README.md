@@ -65,13 +65,13 @@ Other Tools:
 Computer Science Specialist (Trainee)
 E-Learning & Distance Education Department – University of Jeddah
 
--Automated electronic exam workflows, reducing processing time by 40%
+- Automated electronic exam workflows, reducing processing time by 40%
 
--Analyzed system performance data to improve stability
+- Analyzed system performance data to improve stability
 
--Prepared technical and analytical reports for decision-makers
+- Prepared technical and analytical reports for decision-makers
 
--Provided technical support during electronic exams
+- Provided technical support during electronic exams
 
 📜 Certifications & Training
 
