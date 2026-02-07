@@ -87,6 +87,10 @@ E-Learning & Distance Education Department – University of Jeddah
 
 - Python Essentials (Cisco)
 
+📂 Projects
+
+Below is a categorized overview of my projects. Each project links to a dedicated repository with code, documentation, and results.
+
 🌱 Currently Learning
 
 Advanced Machine Learning techniques
