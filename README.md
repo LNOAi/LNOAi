@@ -13,79 +13,79 @@ I enjoy turning data into insights, experimenting with machine learning models, 
 
 🧠 Interests
 
-Artificial Intelligence & Machine Learning
+- Machine Learning
 
-Deep Learning
+- Deep Learning
 
-Data Analysis & Business Intelligence
+- Data Analysis & Business Intelligence
 
-Intelligent Systems & Automation
+- Intelligent Systems & Automation
 
-Real-world AI applications
+- Real-world AI applications
 
 🛠️ Technical Skills
 
 Programming Languages:
 
-Python
+- Python
 
-SQL
+- SQL
 
-AI / ML & Data Tools:
+- AI / ML & Data Tools:
 
-TensorFlow
+- TensorFlow
 
-PyTorch
+- PyTorch
 
-scikit-learn
+- scikit-learn
 
-pandas, NumPy
+- pandas, NumPy
 
 Other Tools:
 
-Microsoft Excel
+- Microsoft Excel
 
-Microsoft Project
+- Microsoft Project
 
 📌 Featured Project
 🐎 Equine Hoof Disease Detection (Hybrid ML & DL)
 
-Built a hybrid machine learning and deep learning model using thermal imaging data
+- Built a hybrid machine learning and deep learning model using thermal imaging data
 
-Achieved 99.67% accuracy
+- Achieved 99.67% accuracy
 
-Focused on early disease detection and data preprocessing pipelines
+- Focused on early disease detection and data preprocessing pipelines
 
-Presented at the Digital Innovation & Entrepreneurship Forum
+- Presented at the Digital Innovation & Entrepreneurship Forum
 
-🏆 Awarded the Innovation Award
+   🏆 Awarded the Innovation Award
 
 💼 Experience
 
 Computer Science Specialist (Trainee)
 E-Learning & Distance Education Department – University of Jeddah
 
-Automated electronic exam workflows, reducing processing time by 40%
+-Automated electronic exam workflows, reducing processing time by 40%
 
-Analyzed system performance data to improve stability
+-Analyzed system performance data to improve stability
 
-Prepared technical and analytical reports for decision-makers
+-Prepared technical and analytical reports for decision-makers
 
-Provided technical support during electronic exams
+-Provided technical support during electronic exams
 
 📜 Certifications & Training
 
-Microsoft Azure AI Fundamentals
+- Microsoft Azure AI Fundamentals
 
-Project Management (35 Contact Hours – PMP preparation)
+- Project Management (35 Contact Hours – PMP preparation)
 
-SQL Database Application Using Python
+- SQL Database Application Using Python
 
-Data Management & Analysis (Huawei)
+- Data Management & Analysis (Huawei)
 
-Data Science (Satr Platform)
+- Data Science (Satr Platform)
 
-Python Essentials (Cisco)
+- Python Essentials (Cisco)
 
 🌱 Currently Learning
 
@@ -105,6 +105,8 @@ English: Professional Working Proficiency
 
 LinkedIn: https://www.linkedin.com/in/lina-al-hassen-7535422ab?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSYX%2BF4bERjunVTZ353CpIg%3D%3D
 
+
 Email: linaa.alhassen1@gmail.com
+
 
 ✨ I’m always open to learning, collaboration, and new opportunities in AI and data.
