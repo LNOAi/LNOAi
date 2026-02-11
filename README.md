@@ -57,6 +57,7 @@ Lecturer | University of Al-Baha (Freelance)
 - SQL Database Application Using Python(Tuwaiq Academy)
 - Data Management & Analysis (Huawei)
 - Data Science (Tuwaiq Academy)
+- python programing(Red Hat Academy)
 - Python Essentials (Cisco)
 
 📂 Projects
